@@ -63,3 +63,7 @@ if (key == "TextStyles") // 跳过 "TextStyles" 对象
 ```
 
 就是我们代码会执行的，因为判断出Font为空，所以会插入
+
+# 下载
+
+[点击下载](https://github.com/qingfenglan/FixFunc/releases/tag/v1.0.0)
